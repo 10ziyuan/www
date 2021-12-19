@@ -1,0 +1,786 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="//at.alicdn.com/t/font_1208165_7qnah1qoq8w.js"></script>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link href="http://ashuaigw.cn/wp-content/uploads/2021/09/1631115198-4c33574b4737155.jpg" rel="icon">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  <title>H5传奇战神</title>
+
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='app-css'  href='http://ashuaigw.cn/wp-content/themes/ripro/assets/css/app.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ripro_chlid_style-css'  href='http://ashuaigw.cn/wp-content/themes/jizhi-chlid/diy.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_stylesheet-css'  href='http://ashuaigw.cn/wp-content/themes/jizhi-chlid/zhankr/inc/shortcodes/shortcodes.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='external-css'  href='http://ashuaigw.cn/wp-content/themes/ripro/assets/css/external.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='sweetalert2-css'  href='http://ashuaigw.cn/wp-content/themes/ripro/assets/css/sweetalert2.min.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='diy-css'  href='http://ashuaigw.cn/wp-content/themes/ripro/assets/css/diy.css?ver=5.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://ashuaigw.cn/wp-content/themes/ripro/assets/js/jquery-2.2.4.min.js?ver=2.2.4'></script>
+<script type='text/javascript' src='http://ashuaigw.cn/wp-content/themes/ripro/assets/js/plugins/sweetalert2.min.js?ver=5.9'></script>
+<meta name="keywords" content="H5传奇战神">
+<meta name="description" content="H5传奇战神">
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="http://ashuaigw.cn/wp-content/themes/ripro/assets/js/html5shiv.js"></script>
+      <script src="http://ashuaigw.cn/wp-content/themes/ripro/assets/js/respond.min.js"></script>
+    <![endif]-->
+    </head>
+
+<body class="archive tag tag-h5 tag-20 logged-in  max_width hfeed navbar-regular sidebar-none pagination-infinite_button no-off-canvas">
+
+<div class="site">
+    
+	<div class="header-banner2" >
+   <div class="container2">
+    <div class="header-banner-content wrapper">
+
+        <div class="deangg1 comfff wow fadeInUp">
+          <div class="deanggspan1"><i class="fa fa-volume-up"></i><span>最新公告</span></div>
+          <b></b>
+          <div class="deanggc"><li>欢迎您光临株潭资源吧，本站秉承服务宗旨 履行“站长”责任，销售只是起点 服务永无止境！<a href="/svip" style="font-size: 12px;color: #3556fe;">立即加入我们</a></li></div>
+          <div class="clear"></div>
+    </div>
+    
+    <div class="clear"></div>
+
+     <div class="header-banner-left">
+      <div id="ym-menu" class="ym-menu">
+      	       <ul id="menu-header-top" class="menu81">
+        <li><a href="/kuaixun" target="_blank"> 网站公告</a></li>
+		<li><a href="/tags" target="_blank"> 热门标签</a></li>
+		<li><a href="/zhuanti" target="_blank"> 资源专题</a></li>
+		<li><a href="/archives" target="_blank"> 资源存档</a></li>
+		<li><a href="https://wpa.qq.com/msgrd?v=3&amp;uin=198886815&amp;site=qq&amp;menu=yes" target="_blank"> 联系我们</a></li>
+       </ul>
+             </div>
+     </div>
+    </div>
+   </div>
+</div>
+<header class="site-header">
+      <div class="container topnav">
+        <div class="navbar">
+            <div class="logo-wrapper">
+                                    <a href="http://ashuaigw.cn/">
+                        <img class="logo regular tap-logo" src="http://ashuaigw.cn/wp-content/uploads/2021/09/1631115119-45542e06833ea8f.png" data-dark="" alt="株潭资源吧">
+                    </a>
+                            </div>
+<!--            <div class="sep"></div>-->
+                    <div class="logotext10">
+                <span class="navtenyear">10年</span><br>
+                <span class="navtenyearcon">专注建站行业优质资源供应商</span>
+            </div>
+            
+            <div class="header_search">
+                <div class="search_form">
+                    <div class="search_input" data-search="top-banner">
+                        <div class="search_filter" id="header_filter">
+                        </div>
+                        <input class="search-input" id="search-keywords" placeholder="懒得逛,试试搜索功能吧..." type="text" name="s" autocomplete="off">
+                        <input type="hidden" name="search" class="btn_search" data-search-btn="search-btn">
+                    </div>
+                    <div class="search_btn" id="search-btn"><i class="icon_search"></i></div>
+                </div>
+                <!--<div class="hotword">
+                    <span>热门搜索：</span>
+                    <a href="/?s=网站源码">网站源码</a><a href="/?s=织梦模板">织梦模板</a><a href="/?s=企业模板">企业模板</a><a href="/?s=AE模板">AE模板</a><a href="/?s=PPT">PPT</a><a href="/?s=源码">源码</a><a href="/?s=视频教程">视频教程</a>
+                </div>-->
+        				<div class="wendashequ">
+					<a href="http://ashuaigw.cn" class="wdsq"><i class="fa fa-fire"></i>  主题购买</a>
+					<img src="/wp-content/themes/jizhi-chlid/images/icon_server.png" alt="" style="max-width: none;position: absolute;right: 96px;margin: 0px 10px 4px 0px;bottom: 0;width: 56px;">
+				</div>
+                  </div>
+
+
+            <div class="main-search">
+                <form method="get" class="search-form inline" action="http://ashuaigw.cn/">
+  <input type="search" class="search-field inline-field" placeholder="输入关键词，回车..." autocomplete="off" value="" name="s" required="required">
+  <button type="submit" class="search-submit"><i class="mdi mdi-magnify"></i></button>
+</form>                <div class="search-close navbar-button"><i class="mdi mdi-close"></i></div>
+            </div>
+
+            <div class="actions">
+                                <div class="shanshan hidden-xsss">
+                    <div data-microtip="升级SVIP会员无限下载" data-microtip-position="bottom-right" class="hsnah heshan">
+                        <a href="/vip" class="shanlian lianzi"><span class="ic_gif"></span>
+                            <span class="txt"><i class="ic_mask"></i>升级SVIP</span></a>
+                    </div>
+                </div>
+                                                    <!-- user -->
+                                            <div class="header-dropdown header__group header__group_user header__style_user">
+
+  <div class="header__cat">
+      <a class="user-pbtn" href="http://ashuaigw.cn/user"><img alt='' data-src='http://ashuaigw.cn/wp-content/themes/ripro/assets/images/avatar/1.png' class='lazyload avatar avatar-96 photo ' height='96' width='96' />      <span>hhb8520888</span>      </a>
+  </div>
+
+  <div class="header__dropdown">
+    <div class="header-box">
+      <div class="refresh-header-top">
+        <div class="header-top">
+          <img alt='' data-src='http://ashuaigw.cn/wp-content/themes/ripro/assets/images/avatar/1.png' class='lazyload avatar avatar-96 photo ' height='96' width='96' />            <div class="">
+              <span>
+                <a class="user-names" href="http://ashuaigw.cn/user">hhb8520888</a>
+                   <i class="wp wp-VIP"> 钻石 </i>                   <i class="group-name"> 终身</i>               </span>
+              <p id="buy-vip" rel-vipid="3">
+                尊敬的钻石会员您好，欢迎回来！              </p>
+            </div>
+            <a href="http://ashuaigw.cn/wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fashuaigw.cn&amp;_wpnonce=ebc5f38a33" class="logout">退出</a>
+          </div>
+      </div>
+
+      <div class="header-center">
+        <div class="md-l">
+          <span class="md-tit">我的钱包</span>
+          <span class="jinbi" title="现有余额：0.00"><i></i>现有余额：0.00 </span>
+          <span class="dou" title="消费金额：0.00"><i></i>消费金额：0.00</span>
+          <a href="http://ashuaigw.cn/user?action=charge" class="pay-credit" >充值</a>
+        </div>
+        <div class="md-r">
+        <div class="md-t">
+        <span>钻石会员</span>
+        <p>到期时间：终身</p><a href="http://ashuaigw.cn/user?action=vip" class="pay-vip">续费</a>      </div>
+      <div class="md-b">
+        <span>永久钻石会员</span>
+        您已开通永久钻石特权
+        
+      </div>
+    </div>
+  </div>
+       
+      <div class="header-bottom">
+        <ul>
+          <li><a href="http://ashuaigw.cn/user?action=myfav"><i class="ico_1"></i>我的收藏</a></li>
+                    <li><a href="http://ashuaigw.cn/user?action=mypost"><i class="ico_2"></i>我的文章</a></li>
+                    <li><a href="http://ashuaigw.cn/user?action=password"><i class="ico_3"></i>安全中心</a></li>
+          <li><a href="http://ashuaigw.cn/user?action=mypay"><i class="ico_4"></i>我的订单</a></li>
+                      <li><a href="http://ashuaigw.cn/user?action=write"><i class="ico_5"></i>我要投稿</a></li>
+                  </ul>
+      </div>
+        </div>
+  </div>
+</div>
+                                                    <!-- user end -->
+                <div class="search-open navbar-button"><i class="fa fa-search"></i></div>
+                <div class="burger" style="display:block"><i class="fa fa-tasks"></i></div>
+            </div>
+        </div>
+  
+      </div>
+        <div class="container">
+        <div class="navbar navbar2">
+        	        	<div class="deansubnavsins"><i class="fa fa-shield"></i>  <a href="https://www.as4.xyz/">阿帅官网</a></div>
+        	            <nav class="main-menu hidden-xs hidden-sm hidden-md">
+                <ul id="menu-menu-1" class="nav-list u-plain-list"><li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9"><a href="http://ashuaigw.cn/">首页</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15"><a href="http://ashuaigw.cn/%e5%bd%b1%e8%a7%86%e6%ba%90%e7%a0%81">影视源码</a>
+<ul class="sub-menu">
+	<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17"><a href="http://ashuaigw.cn/%e5%bd%b1%e8%a7%86%e6%ba%90%e7%a0%81/%e5%bd%b1%e8%a7%86app%e6%ba%90%e7%a0%81">影视APP源码<span class="zhankr-num">14</span></a></li>
+	<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="http://ashuaigw.cn/%e5%bd%b1%e8%a7%86%e6%ba%90%e7%a0%81/%e5%bd%b1%e8%a7%86tv%e6%ba%90%e7%a0%81">影视TV源码<span class="zhankr-num">5</span></a></li>
+</ul>
+</li>
+<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-22"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%a8%a1%e6%9d%bf">网站模板</a>
+<ul class="sub-menu">
+	<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%a8%a1%e6%9d%bf/wordpress">WordPress模板<span class="zhankr-num">74</span></a></li>
+	<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%a8%a1%e6%9d%bf/%e8%8b%b9%e6%9e%9ccms">苹果CMS<span class="zhankr-num">6</span></a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%a8%a1%e6%9d%bf/discuz">Discuz模板<span class="zhankr-num">9</span></a></li>
+	<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%a8%a1%e6%9d%bf/%e5%b8%9d%e5%9b%bdcms">帝国CMS<span class="zhankr-num">0</span></a></li>
+	<li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%a8%a1%e6%9d%bf/%e7%bb%87%e6%a2%a6%e7%bd%91%e7%ab%99%e6%a8%a1%e6%9d%bf">DEDECMS模板<span class="zhankr-num">20</span></a></li>
+	<li id="menu-item-98" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%a8%a1%e6%9d%bf/%e5%85%b6%e4%bb%96%e6%a8%a1%e6%9d%bf">其他模板<span class="zhankr-num">0</span></a></li>
+</ul>
+</li>
+<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-23"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%ba%90%e7%a0%81">网站源码</a>
+<ul class="sub-menu">
+	<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%ba%90%e7%a0%81/%e5%b0%8f%e7%a8%8b%e5%ba%8f%e6%ba%90%e7%a0%81">小程序源码<span class="zhankr-num">10</span></a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%ba%90%e7%a0%81/%e6%95%b4%e7%ab%99%e6%ba%90%e7%a0%81">整站源码<span class="zhankr-num">21</span></a></li>
+	<li id="menu-item-32" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%ba%90%e7%a0%81/%e6%89%8b%e6%9c%ba%e6%ba%90%e7%a0%81">手机源码<span class="zhankr-num">27</span></a></li>
+	<li id="menu-item-104" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104"><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%ba%90%e7%a0%81/%e5%85%b6%e4%bb%96%e6%ba%90%e7%a0%81">其他源码<span class="zhankr-num">6</span></a></li>
+</ul>
+</li>
+<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21"><a href="http://ashuaigw.cn/%e6%b8%b8%e6%88%8f%e6%ba%90%e7%a0%81">游戏源码</a>
+<ul class="sub-menu">
+	<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29"><a href="http://ashuaigw.cn/%e6%b8%b8%e6%88%8f%e6%ba%90%e7%a0%81/%e6%89%8b%e6%b8%b8%e6%ba%90%e7%a0%81">手游源码<span class="zhankr-num">21</span></a></li>
+	<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="http://ashuaigw.cn/%e6%b8%b8%e6%88%8f%e6%ba%90%e7%a0%81/%e7%ab%af%e6%b8%b8%e6%ba%90%e7%a0%81">端游源码<span class="zhankr-num">8</span></a></li>
+	<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31"><a href="http://ashuaigw.cn/%e6%b8%b8%e6%88%8f%e6%ba%90%e7%a0%81/%e9%a1%b5%e6%b8%b8%e6%ba%90%e7%a0%81">页游源码<span class="zhankr-num">1</span></a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="http://ashuaigw.cn/%e6%b8%b8%e6%88%8f%e6%ba%90%e7%a0%81/h5%e6%ba%90%e7%a0%81">H5源码<span class="zhankr-num">4</span></a></li>
+</ul>
+</li>
+<li id="menu-item-483" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-483"><a href="http://ashuaigw.cn/%e6%a0%aa%e6%bd%ad%e6%b5%b7%e6%8a%a5">株潭海报</a>
+<ul class="sub-menu">
+	<li id="menu-item-893" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-893"><a href="http://ashuaigw.cn/%e6%a0%aa%e6%bd%ad%e6%b5%b7%e6%8a%a5/%e7%94%b5%e5%bd%b1%e6%b5%b7%e6%8a%a5">电影海报<span class="zhankr-num">9</span></a></li>
+	<li id="menu-item-894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-894"><a href="http://ashuaigw.cn/%e6%a0%aa%e6%bd%ad%e6%b5%b7%e6%8a%a5/%e7%94%b5%e8%a7%86%e5%89%a7%e6%b5%b7%e6%8a%a5">电视剧海报<span class="zhankr-num">8</span></a></li>
+	<li id="menu-item-895" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-895"><a href="http://ashuaigw.cn/%e6%a0%aa%e6%bd%ad%e6%b5%b7%e6%8a%a5/%e7%bb%bc%e8%89%ba%e6%b5%b7%e6%8a%a5">综艺海报<span class="zhankr-num">13</span></a></li>
+	<li id="menu-item-892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-892"><a href="http://ashuaigw.cn/%e6%a0%aa%e6%bd%ad%e6%b5%b7%e6%8a%a5/%e5%8a%a8%e6%bc%ab%e6%b5%b7%e6%8a%a5">动漫海报<span class="zhankr-num">9</span></a></li>
+</ul>
+</li>
+<li id="menu-item-418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-418"><a href="http://ashuaigw.cn/app%e6%bc%94%e7%a4%ba">APP演示</a></li>
+<li id="menu-item-413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-413"><a href="http://ashuaigw.cn/%e5%b7%a5%e5%85%b7%e5%a4%a7%e5%85%a8">工具大全</a></li>
+<li id="menu-item-414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-414"><a href="http://ashuaigw.cn/%e8%a7%86%e9%a2%91%e6%95%99%e7%a8%8b">视频教程</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="http://ashuaigw.cn/gg">平台公告</a></li>
+<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="http://ashuaigw.cn/svip">升级SVIP介绍</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://ashuaigw.cn/user">用户中心</a></li>
+</ul>            </nav>
+        </div>
+    </div>
+        <style>
+        @media screen and (max-width: 1248px){
+            .header_search{
+                left: 30%;
+            }
+            .logotext10{
+                display: none;
+            }
+            .header_search{
+                width: 320px;
+            }
+            .header_search .search_form .search_input{
+                width: 238px;
+            }
+        }
+        @media screen and (min-width: 931px){
+            .header-gap {
+                height: 150px;
+            }
+            span.navtenyear {
+                font-size: 14px;
+                padding: 1px 5px;
+                background-color: #F67524;
+                border-radius: 5px;
+                color: #fff;
+            }
+            span.navtenyearcon {
+                font-size: 12px;
+            }
+        }
+        @media screen and (max-width: 971px){
+            .navbar2 {
+                height: 0px;
+            }
+            .logotext10{
+                display: none;
+            }
+            .header_search{
+                display: none;
+            }
+        }
+    </style>
+    <script>
+        jQuery("#search-btn").on("click",function () {
+            location.href='http://ashuaigw.cn/?s='+jQuery("#search-keywords").val();
+        })
+    </script>
+  </header>
+<div class="term-bar lazyload visible" data-bg="http://ashuaigw.cn/wp-content/uploads/2021/08/1628096493-dfae81377178ef6.jpg">
+  <h1 class="term-title">H5传奇战神</h1></div>
+<div class="dabolang mobile-hide">
+		<div id="dabolangl1" class="dabolangl"></div>
+		<div id="dabolangl2" class="dabolangl"></div>
+		<div id="dabolangl3" class="dabolangl"></div>
+	</div>
+    
+    <div class="site-content">
+    
+
+
+
+<div class="container">
+  
+
+<div class="filter--content">
+     
+	<div class="zhankr_type_bj">
+	<span>会员专享优质资源<em class="text-p">内容持续上新</em></span>
+	 
+	<div class="header_search" style="float: right;height: 38px;line-height: 28;text-align: left; margin-top: 10px;border-radius: 4px;width: 360px;position: inherit;">
+            <div class="search_form">
+                <div class="search_input" data-search="top-banner" style="background: #fff;">
+                    <div class="search_filter" id="header_filter_cate">
+                    </div>
+                    <input class="search-input" id="search-keywords-cate" placeholder="搜索当前分类..." type="text" name="s" autocomplete="off">
+                    <input type="hidden" name="search-cate" class="btn_search" data-search-btn="search-btn">
+                </div>
+                <div class="search_btn" id="search-btn-cate"><i class="fa fa-search zhankr-icon"></i></div>
+            </div>
+        </div>
+        <script>
+            (function ($) {
+                $(function () {
+                    $("#search-btn-cate").on("click",function () {
+                        location.href='/?s='+$("#search-keywords-cate").val()+'&cat=';
+                    })
+                })
+            })(jQuery)
+        </script>
+    	</div>
+	    <form class="mb-0 zhankr_lmdh" method="get" action="http://ashuaigw.cn">
+        <input type="hidden" name="s">
+        <div class="form-box search-properties mb-0">
+            <!-- 一级分类 -->
+                        <div class="filter-item">
+                <ul class="filter-tag"><span><i class="fa fa-folder-open-o"></i> 分类筛选</span><li><a href="http://ashuaigw.cn/%e5%bd%b1%e8%a7%86%e6%ba%90%e7%a0%81">影视源码</a></li><li><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%a8%a1%e6%9d%bf">网站模板</a></li><li><a href="http://ashuaigw.cn/%e7%bd%91%e7%ab%99%e6%ba%90%e7%a0%81">网站源码</a></li><li><a href="http://ashuaigw.cn/%e6%b8%b8%e6%88%8f%e6%ba%90%e7%a0%81">游戏源码</a></li></ul>            </div>
+                        
+            <!-- 相关标签 -->
+                        <!-- 自定义筛选 -->
+                                    <div class="filter-tab">
+                <div class="row">
+                    <div class="col-12 col-sm-6">
+                        <ul class="filter-tag"><span><i class="fa fa-filter"></i> 价格</span><li><a href="/tag/h5%e4%bc%a0%e5%a5%87%e6%88%98%e7%a5%9e?cao_type=0" class="tab on"><i></i><em>全部</em></a></li><li><a href="/tag/h5%e4%bc%a0%e5%a5%87%e6%88%98%e7%a5%9e?cao_type=1" class="tab "><i></i><em>免费</em></a></li><li><a href="/tag/h5%e4%bc%a0%e5%a5%87%e6%88%98%e7%a5%9e?cao_type=2" class="tab "><i></i><em>付费</em></a></li><li><a href="/tag/h5%e4%bc%a0%e5%a5%87%e6%88%98%e7%a5%9e?cao_type=3" class="tab "><i></i><em>钻石免费</em></a></li><li><a href="/tag/h5%e4%bc%a0%e5%a5%87%e6%88%98%e7%a5%9e?cao_type=4" class="tab "><i></i><em>钻石优惠</em></a></li></ul>                    </div>
+                    <div class="col-12 col-sm-6">
+                        <!-- 排序 -->
+                        <ul class="filter-tag" style="width: 100%;"><div class="right"><li class="rightss"><i class="fa fa-caret-down"></i> <a href="/tag/h5%e4%bc%a0%e5%a5%87%e6%88%98%e7%a5%9e?order=date" class="on">发布日期</a></li><li class="rightss"><i class="fa fa-caret-down"></i> <a href="/tag/h5%e4%bc%a0%e5%a5%87%e6%88%98%e7%a5%9e?order=modified" class="">修改时间</a></li><li class="rightss"><i class="fa fa-caret-down"></i> <a href="/tag/h5%e4%bc%a0%e5%a5%87%e6%88%98%e7%a5%9e?order=comment_count" class="">评论数量</a></li><li class="rightss"><i class="fa fa-caret-down"></i> <a href="/tag/h5%e4%bc%a0%e5%a5%87%e6%88%98%e7%a5%9e?order=rand" class="">随机</a></li><li class="rightss"><i class="fa fa-caret-down"></i> <a href="/tag/h5%e4%bc%a0%e5%a5%87%e6%88%98%e7%a5%9e?order=hot" class="">热度</a></li></div></ul>                        
+                    </div>
+                </div>
+            </div>
+            
+            <!-- .row end -->
+        </div>
+        <!-- .form-box end -->
+    </form>
+</div>
+
+  
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="content-area">
+        <main class="site-main">
+                      <div class="row posts-wrapper">
+              <div class="col-lg-1-5 col-6 col-sm-6 col-md-4 col-lg-3">
+  <article id="post-1" class="post post-grid post-1 type-post status-publish format-standard has-post-thumbnail hentry category-h5 tag-h5">
+  	  	  	<i class="vwip30"></i>              <div class="entry-media">
+        <div class="placeholder" style="padding-bottom: 66.666666666667%;">
+          <a  href="http://ashuaigw.cn/1.html">
+            <img class="lazyload" data-src="http://ashuaigw.cn/wp-content/themes/ripro/timthumb.php?src=http://ashuaigw.cn/wp-content/uploads/2021/08/1628096493-dfae81377178ef6.jpg&#038;h=200&#038;w=300&#038;zc=1&#038;a=c&#038;q=100&#038;s=1" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="H5传奇战神-前后端开源版+运维架设说明">
+                    </a>
+        </div>
+              </div>
+          <div class="entry-wrapper">
+            <a class="grid_author_avt" href="http://ashuaigw.cn/1.html"><div class="grid_author_bggo avatar bg-cover" style="background-image: url(http://ashuaigw.cn/wp-content/uploads/avatar/avatar-1.jpg);"></div> </a>
+            <header class="entry-header"><div class="entry-meta"><span class="meta-category"><a href="http://ashuaigw.cn/%e6%b8%b8%e6%88%8f%e6%ba%90%e7%a0%81/h5%e6%ba%90%e7%a0%81" rel="category"><i class="dot"></i>H5源码</a></span></div><h2 class="entry-title"><a href="http://ashuaigw.cn/1.html" title="H5传奇战神-前后端开源版+运维架设说明" rel="bookmark">H5传奇战神-前后端开源版+运维架设说明</a></h2></header>            <div class="entry-footer">
+  <ul class="post-meta-box">
+
+        <li class="meta-date">
+      <time datetime="2021-08-04T23:11:12+08:00"><i class="fa fa-clock-o"></i> 2021-08-04</time>
+    </li>
+            <li class="meta-views"><span><i class="fa fa-eye"></i> 146</span></li>
+                          <li class="meta-price"><span><i class="fa fa-paypal"></i> 8.8</span></li>
+              
+    <div class="zhankr-tab-zx">最新</div>	
+    <!--站壳网-->
+  </ul>
+</div>    </div>
+  </article>
+</div>
+            </div>
+            
+  <div class="infinite-scroll-status">
+    <div class="infinite-scroll-request"></div>
+  </div>
+  <div class="infinite-scroll-action">
+    <div class="infinite-scroll-button button">加载更多</div>
+  </div>
+                  </main>
+      </div>
+    </div>
+      </div>
+    
+</div>
+</div><!-- end sitecoent -->
+
+	
+	<div class="module parallax">
+		<img class="jarallax-img lazyload" data-srcset="http://ashuaigw.cn/wp-content/themes/ripro/assets/images/background/bg-1.jpg" data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="">
+		<div class="container">
+		<div class="zhankr">
+		<ul class="data-items">
+        <li><i class="fa fa-group"></i><strong data-count="97596" class="active">148</strong><span>会员总数(位)</span>
+        </li>
+        <li><i class="fa fa-chrome"></i><strong data-count="34774" class="active">285</strong><span>资源总数(个)</span>
+        </li>
+        <li><i class="fa fa-diamond"></i><strong data-count="841940" class="active">0</strong><span>本周发布(个)</span>
+        </li>
+        <li><i class="fa fa-cloud-upload"></i><strong data-count="2377" class="active">0 </strong><span>今日发布(个)</span>
+        </li>
+        <li><i class="fa fa-desktop"></i><strong data-count="7082" class="active">127</strong><span>稳定运行(天)</span>
+        </li>
+		</ul>
+		</div>
+			<h4 class="entry-title">
+				提供最优质的资源集合			</h4>
+							<a class="button" href="#">立即查看</a>
+										<a class="button transparent" href="#">了解详情</a>
+					</div>
+	</div>
+	
+	<footer class="site-footer">
+		<div class="container">
+
+			<div class="footer-widget">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-3 widget--about">
+            <div class="widget--content">
+                <div class="footer--logo mb-20">
+                    <img class="tap-logo" src="http://ashuaigw.cn/wp-content/uploads/2021/09/1631115119-45542e06833ea8f.png" data-dark="http://ashuaigw.cn/wp-content/uploads/2021/09/1631115119-45542e06833ea8f.png" alt="株潭资源吧">
+                </div>
+                <p class="mb-10">株潭资源吧是一家专门做精品素材的网站，网站以网站源码、网站模板、网页特效为主要内容，以“共享创造价值”为理念，以“尊重原创”为准则。</p>
+            </div>
+        </div>
+        <!-- .col-md-2 end -->
+        <div class="col-xs-12 col-sm-3 col-md-2 col-md-offset-1 widget--links">
+            <div class="widget--title">
+                <h5>本站导航</h5>
+            </div>
+            <div class="widget--content">
+                <ul class="list-unstyled mb-0">
+                                    </ul>
+            </div>
+        </div>
+        <!-- .col-md-2 end -->
+        <div class="col-xs-12 col-sm-3 col-md-2 widget--links">
+            <div class="widget--title">
+                <h5>友情链接</h5>
+            </div>
+            <div class="widget--content">
+                <ul class="list-unstyled mb-0">
+                                    </ul>
+            </div>
+        </div>
+        <!-- .col-md-2 end -->
+        <div class="col-xs-12 col-sm-12 col-md-4 widget--newsletter">
+            <div class="widget--title">
+                			    <h5>株潭资源吧，一个高级程序员模板开发平台！</h5>
+			                </div>
+            <div class="widget--content">
+                <form class="newsletter--form mb-30" action="http://ashuaigw.cn/" method="get">
+                    <input type="text" class="form-control" name="s" placeholder="关键词">
+                    <button type="submit"><i class="fa fa-arrow-right"></i></button>
+                </form>
+                <h6>本店由<a href="http://ashuaigw.cn/" target="_blank" rel="noreferrer nofollow">株潭资源吧</a>强力驱动</h6>
+            </div>
+        </div>
+
+    </div>
+</div>									  <div class="site-info">
+			     <li class="zhankr-banquan-foo">© 2018 Theme by - <a href="http://ashuaigw.cn/" target="_blank" rel="noreferrer nofollow">株潭资源吧</a> &amp; WordPress Theme. All rights reserved			    			    <a href="https://beian.miit.gov.cn" target="_blank" class="text" rel="noreferrer nofollow"> 豫ICP备2021008946号-2</a>
+			    <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=豫ICP备2021008946号-2" target="_blank" rel="noreferrer nofollow">豫ICP备2021008946号-2</a></li>
+			    <br>
+			     			    			    	<a href="/sitemap.xml" target="_blank"><i class="fa fa-sitemap" aria-hidden="true"></i> XML地图</a>  | <a href="/daohang" target="_blank"><i class="fa fa-sitemap" aria-hidden="true"></i> 站长导航</a><br>
+			    			    				<a href="https://v.yunaq.com/certificate?domain=www.zhankr.net" class="aq" target="_blank"><img src="https://static.anquan.org/static/outer/image/hy_124x47.png"/></a>&nbsp;
+				<a href="https://v.yunaq.com/certificate?domain=www.zhankr.net" class="aq" target="_blank"><img src="https://aqyzmedia.yunaq.com/labels/label_sm_90020.png"/></a>	&nbsp;
+				<a href="https://v.yunaq.com/certificate?domain=www.zhankr.net" class="aq" target="_blank"><img src="https://static.anquan.org/static/outer/image/sm_124x47.png"/></a>&nbsp;
+			  </div>
+			  					</div>
+	</footer>
+
+<!--右侧跟随导航开始-->
+<div class="float-box">
+      	<ul class="float-ul float-radius float-text dbsvip" style="box-shadow: 0px 0px 8px 8px rgba(255, 12, 0, 0.42);">
+		<li>
+			<a class="qq float-border float-text dbsvipa get-vip-class" href="/user?action=vip" target="_Blank" >
+				<i class="fa fa-diamond" style="font-size: 18px;"></i><br>SVIP				<div class="float-alert-box float-radius float-qq-box" style="display:none;">
+					<h6 style="color: #ff402f;">升级SVIP会员</h6>
+					<p>限时钜惠<br>终身SVIP仅需399元</p>
+                                                <div class="float-qq-btn float-radius dbsvipd get-vip-class" onclick="window.open('/user?action=vip','_blank')">立即开通</div>
+                            
+				</div>
+			</a>
+		</li>
+	</ul>
+	
+  	<ul class="float-ul float-radius float-text">
+      <li>
+                  <a class="click-qiandao zzhuti_qd_1 get-vip-class" href="javascript:void(0);" etap="to_top" title="打卡签到">
+                <i class="fa fa-calendar-check-o"></i><br>签到             </a>
+            		</li>
+	</ul>
+
+	<ul class="float-ul float-radius float-text">
+	    		<li>
+			<a class="qq float-border float-text" href="https://wpa.qq.com/msgrd?v=3&amp;uin=198886815&amp;site=qq&amp;menu=yes" target="_Blank" >
+				<i class="fa fa-qq"></i><br>客服				<div class="float-alert-box float-radius float-qq-box" style="display:none;">
+					<h6>工作时间</h6>
+					<p>工作日：8:00 - 23:00<br>节假日：8:00 - 23:00</p>
+					<div class="float-qq-btn float-radius" onclick="window.open('https://wpa.qq.com/msgrd?v=3&amp;uin=198886815&amp;site=qq&amp;menu=yes','_blank')">点击咨询客服</div>
+				</div>
+			</a>
+		</li>
+				
+				<li>
+			<a class="fankui float-border float-text" href="https://jq.qq.com/?_wv=1027&amp;k=yd38YKE3" target="_Blank" title="Q群">
+				<i class="fa fa-weixin"></i><br/>Q群			</a>
+		</li>
+			</ul>
+	<ul class="float-ul float-radius float-text">
+	    		<li>
+			<a class="fankui float-border float-text" href="/web" target="_Blank" title="建站">
+				<i class="fa fa-desktop"></i><br>建站			</a>
+		</li>
+				
+				<li>
+			<a class="fankui float-border float-text" href="/seo" target="_Blank" title="优化">
+				<i class="fa fa-coffee"></i><br>优化			</a>
+		</li>
+				
+		<li>
+			<a class="float-border float-text" href="javascript:void(0);" etap="to_full" title="点击全屏">
+				<i class="fa fa-expand"></i><br>全屏			</a>
+		</li>
+	</ul>
+  	<ul class="float-ul float-radius float-text">
+		<li>
+			<a class="float-border float-text" href="javascript:void(0);" etap="to_top" title="返回顶部">
+				<i class="fa fa-rocket"></i><br>
+			</a>
+		</li>
+	</ul>
+
+</div>
+
+<script>
+$(".qq").hover(function () {
+	$(this).children(".float-qq-box").show()
+},function() {
+	$(this).children(".float-qq-box").hide()
+});
+$(".weixin").hover(function () {
+	$(this).children(".float-weixin-box").show()
+},function() {
+	$(this).children(".float-weixin-box").hide()
+});
+</script>
+<!--右侧跟随导航结束-->
+
+<div class="dimmer"></div>
+
+<!--游客提示登录-->
+<!--游客提示登录-->
+
+
+<div class="off-canvas">
+  <div class="canvas-close"><i class="mdi mdi-close"></i></div>
+  <div class="logo-wrapper">
+      <a href="http://ashuaigw.cn/">
+      <img class="logo regular" src="http://ashuaigw.cn/wp-content/uploads/2021/09/1631115119-45542e06833ea8f.png" alt="株潭资源吧">
+    </a>
+    </div>
+  <div class="mobile-menu hidden-lg hidden-xl"></div>
+  <aside class="widget-area">
+      </aside>
+</div>
+<script>
+    console.log("\n %c 站壳网子主题 V5.9 %c https://www.zhankr.net \n\n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;");
+    console.log("SQL 请求数：58");
+    console.log("页面生成耗时： 0.80727");
+</script>
+<!--美化部位-->
+<style type="text/css">
+.icon {
+width: 1em; height: 1em;
+vertical-align: -0.15em;
+fill: currentColor;
+overflow: hidden;
+}
+</style>
+<script type="text/javascript">
+
+jQuery(document).ready(function($){
+
+$('.ct h3 span').click(function(){
+
+$(this).addClass("selected").siblings().removeClass();
+
+  $('.ct > ul').eq($(this).index()).addClass('show');
+ $('.ct > ul').eq($(this).index()).siblings().removeClass('show');
+});
+ $("pre > code").addClass("language-php");
+});
+
+	jQuery(".header-dropdown").hover(function() {
+		jQuery(this).addClass('active');
+	}, function() {
+		jQuery(this).removeClass('active');
+	});
+
+
+</script>
+<script>
+(function($) {
+    $.fn.FontScroll = function(options) {
+        var d = { time: 3000, s: 'fontColor', num: 1 }
+        var o = $.extend(d, options);
+
+
+        this.children('ul').addClass('line');
+        var _con = $('.line').eq(0);
+        var _conH = _con.height();
+        var _conChildH = _con.children().eq(0).height();
+        var _temp = _conChildH;
+        var _time = d.time;
+        var _s = d.s;
+
+
+        _con.clone().insertAfter(_con);
+
+
+        var num = d.num;
+        var _p = this.find('li');
+        var allNum = _p.length;
+
+        _p.eq(num).addClass(_s);
+
+
+        var timeID = setInterval(Up, _time);
+        this.hover(function() { clearInterval(timeID) }, function() { timeID = setInterval(Up, _time); });
+
+        function Up() {
+            _con.animate({ marginTop: '-' + _conChildH });
+
+            _p.removeClass(_s);
+            num += 1;
+            _p.eq(num).addClass(_s);
+
+            if (_conH == _conChildH) {
+                _con.animate({ marginTop: '-' + _conChildH }, "normal", over);
+            } else {
+                _conChildH += _temp;
+            }
+        }
+
+        function over() {
+            _con.attr("style", 'margin-top:0');
+            _conChildH = _temp;
+            num = 1;
+            _p.removeClass(_s);
+            _p.eq(num).addClass(_s);
+        }
+    }
+})(jQuery);
+
+
+$(function() {
+    $('.marquee_box').FontScroll({ time: 5000, num: 1 });
+});
+</script>
+<!--美化部位-->
+
+<!--活动弹屏-->
+<div id="right_ad_20200520" class="" style="display: block;">
+    <div class="kubao" style="display: block;">
+        <span class="sm"></span>
+    </div>
+    <a class="link animated" href="/svip" data-stat="升级SVIP活动特价" target="_blank"
+       style="display: none;border:none;box-shadow:none">
+        <span class="ly-db-text"></span>
+        <em class="close">×</em>
+    </a>
+</div>
+<!--活动弹屏-->
+
+
+<div class="text" style=" text-align:center;"><script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1280221125'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1280221125%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script></div><script type="text/javascript">
+((function() {
+    var callbacks = [],
+        timeLimit = 50,
+        open = false;
+    setInterval(loop, 1);
+    return {
+        addListener: function(fn) {
+            callbacks.push(fn);
+        },
+        cancleListenr: function(fn) {
+            callbacks = callbacks.filter(function(v) {
+                return v !== fn;
+            });
+        }
+    }
+    function loop() {
+        var startTime = new Date();
+        debugger;
+        if (new Date() - startTime > timeLimit) {
+            if (!open) {
+                callbacks.forEach(function(fn) {
+                    fn.call(null);
+                });
+            }
+            open = true;
+            window.stop();
+            alert('不要扒我了');
+            window.location.reload();
+        } else {
+            open = false;
+        }
+    }
+})()).addListener(function() {
+    window.location.reload();
+});
+</script>
+
+<link rel='stylesheet' id='rightad-css'  href='http://ashuaigw.cn/wp-content/themes/jizhi-chlid/css/zhankr-jizhi.css?ver=4.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://ashuaigw.cn/wp-content/themes/jizhi-chlid/zhankr/inc/shortcodes/shortcodes.js?ver=2.0'></script>
+<script type='text/javascript' src='http://ashuaigw.cn/wp-content/themes/ripro/assets/js/plugins.js?ver=5.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var caozhuti = {"site_name":"\u682a\u6f6d\u8d44\u6e90\u5427","home_url":"http:\/\/ashuaigw.cn","ajaxurl":"http:\/\/ashuaigw.cn\/wp-admin\/admin-ajax.php","is_singular":"0","tencent_captcha":{"is":"","appid":""},"infinite_load":"\u52a0\u8f7d\u66f4\u591a","infinite_loading":"<i class=\"fa fa-spinner fa-spin\"><\/i> \u52a0\u8f7d\u4e2d...","site_notice":{"is":"1","color":"rgb(33, 150, 243)","html":"<div class=\"notify-content\"><h3>\u682a\u6f6d\u8d44\u6e90\u5427<\/h3><div>\u672c\u7ad9588\u6c38\u4e45VIP\u76ee\u524d\u53ea\u9700399\u5143\uff0c\u53ef\u514d\u8d39\u4e0b\u8f7d\u672c\u7ad9100%\u4ee5\u4e0a\u7684\u8d44\u6e90\u3002\r\n\r\n\u672c\u7ad9\u8d44\u6e90\u5747\u6765\u6e90\u4e8e\u4e92\u8054\u7f51\uff0c\u5982\u6709\u4fb5\u6743\u8bf7\u8054\u7cfb\u7ad9\u957f\uff01\u5c06\u7b2c\u4e00\u65f6\u95f4\u5220\u9664\r\n\r\n\u672c\u7ad9\u8d44\u6e90\u552e\u4ef7\u53ea\u662f\u8d5e\u52a9\uff0c\u6536\u53d6\u8d39\u7528\u4ec5\u7ef4\u63012021-08-14\u672c\u7ad9\u7684\u65e5\u5e38\u8fd0\u8425\u6240\u9700\uff01\r\n\r\n\u8d44\u6e90\u4ec5\u4f9b\u5b66\u4e60\u53c2\u8003\u8bf7\u52ff\u5546\u7528\u6216\u5176\u5b83\u975e\u6cd5\u7528\u9014\uff0c\u5426\u5219\u4e00\u5207\u540e\u679c\u7528\u6237\u81ea\u8d1f\uff01\r\n\r\n\u514d\u8d23\u58f0\u660e\uff1a\u811a\u672c\u91ca\u653e\u7684\u5185\u5bb9\u4ec5\u7528\u4e8e\u5b66\u4e60\u7814\u7a76\uff01\u4e25\u7981\u7528\u4e8e\u4e00\u5207\u975e\u6cd5\u4e1a\u52a1\uff01\u8bf7\u81ea\u89c9\u9075\u5b88\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u6cd5\u5f8b\u6cd5\u89c4\uff01\u4e00\u5207\u6cd5\u5f8b\u8d23\u4efb\u4e0e\u672c\u7ad9\u65e0\u5173<\/div><\/div>"},"pay_type_html":{"html":"<div class=\"pay-button-box\"><div class=\"pay-item\" id=\"alipay\" data-type=\"1\"><i class=\"alipay\"><\/i><span>\u652f\u4ed8\u5b9d<\/span><\/div><div class=\"pay-item\" id=\"yecpay\" data-type=\"9999\"><i class=\"yecpay\"><\/i><span>\u4f59\u989d\u652f\u4ed8<\/span><\/div><\/div><p style=\"font-size: 13px; padding: 0; margin: 0;\">\u514d\u8d39\u6216\u94bb\u77f3\u514d\u8d39\u8d44\u6e90\u4ec5\u9650\u4f59\u989d\u652f\u4ed8<\/p>","alipay":1,"weixinpay":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ashuaigw.cn/wp-content/themes/ripro/assets/js/app.js?ver=5.9'></script>
+<script type='text/javascript' src='http://ashuaigw.cn/wp-content/themes/jizhi-chlid/css/zhankr-jizhi.js?ver=4.8'></script>
+<div class="waveHorizontals mobile-hide">
+  <div id="waveHorizontal1" class="waveHorizontal"></div>
+  <div id="waveHorizontal2" class="waveHorizontal"></div>
+  <div id="waveHorizontal3" class="waveHorizontal"></div>
+</div>
+<!--手机导航-->
+<div id="foot-memu" class="aini_foot_nav">
+  <ul>
+    <li> <a href="/" class="foothover"> <i class="nohover fa fa-home"></i>
+      <p>首页</p>
+      </a> </li>
+    <li> <a class="click-qiandao get-vip-class" href="javascript:void(0);" etap="to_top"> <i class="nohover fa fa-calendar-check-o"></i>
+      <p>签到</p>
+      </a> </li>
+    <li class="aini_zjbtn"> <a href="/svip" rel="nofollow" data-block="666" data-position="8" target="_blank"> <em class="bg_f b_ok"></em> <span class="bg_f"> <i class="foot_btn f_f iconjiahao fa fa-diamond"></i> </span> </a> </li>
+    <li> <a class="foothover" href="https://www.as4.xyz"> <i class="nohover fa fa-wordpress"></i>
+      <p>官网</p>
+      </a> </li>
+    <li> <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=198886815&amp;site=qq&amp;menu=yes"> <i class="nohover fa fa-comments-o"></i>
+      <p>客服</p>
+      </a> </li>
+  </ul>
+</div>
+<!--手机导航-->
+
+<!--常见问题-->
+<script>
+  var ndt = $("#help dt");
+  var ndd = $("#help dd");
+  ndd.eq(0).show();
+  ndt.click(function () {
+    ndd.hide();
+    $(this).next().show();
+  });
+</script>
+<script>
+    $('#search-keywords').keydown(function(e){
+        if(e.keyCode==13){
+            $('#search-btn').trigger('click');
+        }
+    });
+    $('#search-keywords-cate').keydown(function(e){
+        if(e.keyCode==13){
+            $('#search-btn-cate').trigger('click');
+        }
+    });
+    $(function () {
+        $(".get-vip-class").on('click',function () {
+            if($(".login-btn").length){
+                // $(".login-btn").trigger('click')
+                open_signup_popup()
+                return false;
+            }
+        })
+    })
+</script>
+<!--常见问题-->
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+</body>
+</html>
