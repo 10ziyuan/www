@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+  <title>cuber.zip - 字节网盘</title>
+  <link rel="dns-prefetch" href="//static.bytepan.com">
+  <link href="//static.bytepan.com/pan/t0.css" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="//static.bytepan.com/favicon.ico">
+</head>
+
+<body>
+  <div class="top">
+    <div class="d1">
+      <div class="d11 bgimg">
+        <a href="/" class="d7">&nbsp;</a></div>
+      <div class="d12">
+                <a href="/user/login.html">登录</a>
+              </div>
+    </div>
+  </div>
+  <div class="pc bgimg"></div>
+  <div class="d">
+    <div style="font-size: 30px;text-align: center;padding: 56px 0px 20px 0px;">cuber.zip</div>
+    <div class="d2">
+      <div>
+        <table width="99%" border="0" align="center" cellspacing="0">
+          <tbody>
+            <tr>
+              <td width="330" valign="top">
+                <span class="p7">文件大小：</span>10.48MB<br>
+                <span class="p7">上传时间：</span>2021-06-19<br>
+                <span class="p7">分享用户：</span><font>小*子</font><br>
+                <!--<span class="p7">运行系统：</span>Windows<br>-->
+                <span class="p7">文件描述：</span><br>
+              </td>
+              <td>&nbsp;</td>
+              <td width="315" align="right">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <script>
+        function down()
+        {
+          window.open("/pan/down.html?id=c757212857353eb20cd74784d1678c59878d67981e7c71a99182a11cb38ce2193d");
+        }
+      </script>
+      <div class="d3">
+      </div>
+      <div class="load2">
+      </div>
+      </br>
+      <div class="ifr">
+        <div class="load" id="go">
+          <a href="javascript:;" onclick="down()">
+            <span class="txt">电信下载</span>
+            <span class="txt txtc">联通下载</span>
+            <span class="txt">普通下载</span>
+          </a>
+        </div>
+      </div>
+      <div class="d3">
+      </div>
+    </div>
+  </div>
+  <div class="n_bot">
+    <div class="wap-down">手机可扫描二维码下载</div>
+    <div id="code" title="http://tiao.bytewangpan.com/x.php?u=http%3A%2F%2Ftiao.bytepan.net%2Ftiao%3Fu%3Dhttp%253A%252F%252Fkekewangluo.cc%252FradOCsqVkNf0%253Fewm">
+      <img src="/pan/down/erweima?url=http%3A%2F%2Ftiao.bytewangpan.com%2Fx.php%3Fu%3Dhttp%253A%252F%252Ftiao.bytepan.net%252Ftiao%253Fu%253Dhttp%25253A%25252F%25252Fkekewangluo.cc%25252FradOCsqVkNf0%25253Fewm" style="width: 218px;height: 218px;">
+    </div>
+    <div class="foot_info">
+      <div class="shenmin">
+        谨防刷单兼职，网贷，金融，裸聊敲诈，赌博等诈骗，请立即举报
+      </div>
+      <div class="foot_copy">版权声明：不得利用云存储发布，存储，淫秽，诈骗等违法信息。
+        <a href="/portal/jubao.html?url_id=38816" target="_blank">侵权/违法投诉</a><br>或者投诉邮箱：bytepan@qq.com</div>
+      © 2021 <a onclick="href='/'">字节网盘</a>
+    </div>
+  </div>
+
+  
+  <script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?66a6bd005822449757b4bd73212ea58c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?4de9bdde7442a104ba7d5c2d04d1a40e";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?040c3b2fd29c32453a60dc7076e19838";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script></body>
+
+</html>
